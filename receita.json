@@ -1,4 +1,5 @@
 {
   "showInterstitialAd": false,
   "maxBackButtonPressCount": 0
+  "webviewUrl": "https://www.google.com"
 }
