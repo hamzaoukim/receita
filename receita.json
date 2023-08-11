@@ -1,5 +1,5 @@
 {
-  "showInterstitialAd": true,
+  "showInterstitialAd": false,
   "maxBackButtonPressCount": 0,
-  "websiteUrl": "https://www.youtube.com/" 
+  "websiteUrl": "https://www.nba.com/lakers/" 
 }
