@@ -1,5 +1,5 @@
 {
   "showInterstitialAd": false,
-  "maxBackButtonPressCount": 3,
+  "maxBackButtonPressCount": 0,
   "websiteUrl": "https://www.nba.com/lakers/" 
 }
