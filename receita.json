@@ -1,5 +1,5 @@
 {
-  "showInterstitialAd": false,
-  "maxBackButtonPressCount": 0,
-  "websiteUrl": "https://www.nba.com/lakers/" 
+  "showInterstitialAd": true,
+  "maxBackButtonPressCount": 7,
+  "websiteUrl": "https://www.gov.br/receitafederal/pt-br" 
 }
